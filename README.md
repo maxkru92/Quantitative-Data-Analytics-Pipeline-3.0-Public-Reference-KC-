@@ -58,7 +58,7 @@ Publicly accessible tools dedicated to market transparency and retail risk aware
 
 This project and the concepts contained herein are for educational and demonstrative purposes only. The depicted modules and dashboards do not constitute financial advice. Trading futures, options, and cryptocurrencies carries a substantial risk of loss. 
 
-© 2024 KruppCapital. All rights reserved.
+© 2026 KruppCapital. All rights reserved.
 
 ------------------------------------
 
@@ -122,4 +122,4 @@ Proprietäre Module für professionelle Retail-Trader und Portfoliomanager:
 
 Dieses Projekt und die darin enthaltenen Konzepte dienen ausschließlich Bildungs- und Demonstrationszwecken. Die dargestellten Module und Dashboards stellen keine Finanzberatung dar. Der Handel mit Futures, Optionen und Kryptowährungen birgt ein erhebliches Verlustrisiko. 
 
-© 2024 KruppCapital. Alle Rechte vorbehalten.
+© 2026 KruppCapital. Alle Rechte vorbehalten.
