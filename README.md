@@ -1,4 +1,4 @@
-# KruppCapital Quantitative Data & Analytics Pipeline 3.0
+# KruppCapital Quantitative Data & Analytics Pipeline 3.0 [ENG]
 
 <img width="2752" height="1536" alt="1787191864c2a2" src="https://github.com/user-attachments/assets/950ba10b-6a42-48fb-ae88-191b606f089f" />
 
@@ -53,17 +53,10 @@ Publicly accessible tools dedicated to market transparency and retail risk aware
 * **Intelligence:** Machine Learning Models for Data Validation & Pattern Recognition
 * **Security:** End-to-End Encryption & Zero-Trust API Gateways
 
----
-
-## ⚠️ Disclaimer
-
-This project and the concepts contained herein are for educational and demonstrative purposes only. The depicted modules and dashboards do not constitute financial advice. Trading futures, options, and cryptocurrencies carries a substantial risk of loss. 
-
-© 2026 KruppCapital. All rights reserved.
 
 ------------------------------------
 
-# KruppCapital Quantitative Data & Analytics Pipeline 3.0
+# KruppCapital Quantitative Data & Analytics Pipeline 3.0 [GER]
 
 <img width="2752" height="1536" alt="1787191864c2a2" src="https://github.com/user-attachments/assets/6f46e2cf-e923-4213-b2b5-ed07a1942f7f" />
 
