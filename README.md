@@ -52,9 +52,15 @@ Publicly accessible tools dedicated to market transparency and retail risk aware
 * **Data Processing:** Stream Processing & Batch Aggregation
 * **Intelligence:** Machine Learning Models for Data Validation & Pattern Recognition
 * **Security:** End-to-End Encryption & Zero-Trust API Gateways
+---
 
+## ⚠️ Disclaimer
 
-------------------------------------
+This project and the concepts contained herein are for educational and demonstrative purposes only. The depicted modules and dashboards do not constitute financial advice. Trading futures, options, and cryptocurrencies carries a substantial risk of loss. 
+
+© 2026 KruppCapital. All rights reserved.
+
+------------------------------------------------------------------------
 
 # KruppCapital Quantitative Data & Analytics Pipeline 3.0 [GER]
 
