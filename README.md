@@ -1,6 +1,7 @@
 # KruppCapital Quantitative Data & Analytics Pipeline 3.0
 
-![KruppCapital Pipeline Architecture](https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME]/raw/main/assets/og-image-pipeline-3.0.png)
+![Uploading 1787191864c2a2.png…]()
+
 
 ## 📑 Overview
 
@@ -64,7 +65,7 @@ This project and the concepts contained herein are for educational and demonstra
 
 # KruppCapital Quantitative Data & Analytics Pipeline 3.0
 
-![KruppCapital Pipeline Architektur](https://github.com/[DEIN_USERNAME]/[DEIN_REPO_NAME]/raw/main/assets/og-image-pipeline-3.0.png)
+![Uploading 1787191864c2a2.png…]()
 
 ## 📑 Überblick
 
